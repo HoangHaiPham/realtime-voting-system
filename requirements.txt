@@ -1,0 +1,10 @@
+psycopg2-binary 
+confluent-kafka==2.3.0
+simplejson
+python-dotenv
+requests
+pyspark==3.5.3
+streamlit==1.29.0
+streamlit-autorefresh==1.0.1
+kafka-python
+matplotlib
